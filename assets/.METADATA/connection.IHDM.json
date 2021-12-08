@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "asset_type": "connection",
+    "name": "IHDM",
+    "origin_country": "us",
+    "rov": {
+      "mode": 0
+    },
+    "asset_category": "USER",
+    "created_at": "2021-12-08T03:17:26Z",
+    "created": 1638933446917,
+    "asset_id": "connection.IHDM",
+    "asset_attributes": [
+      "connection"
+    ]
+  },
+  "entity": {
+    "connection": {
+      "datasource_type": "971223d3-093e-4957-8af9-a83181ee9dd9",
+      "context": "source,target",
+      "flags": [],
+      "ref_catalog_id": "42e8899b-c7bb-47bf-9a66-0020c7386dad",
+      "ref_asset_id": "c5d8274b-7997-48e4-bbcd-7d891cf9fa27"
+    }
+  },
+  "attachments": []
+}
